@@ -9,25 +9,6 @@ Render a tree-like topo through nodes and links.
 #### Multi-roots tree topo
 generate a multi-roots tree layout from provided data
 
-<img src="imgs/multi_roots.png" width="400"/>
-
-
-#### Grouped tree topo
-support node group inside the tree topo
-
-<img src="imgs/grouped_tree.png" width="400"/>
-
-#### Simple tree topo
-render a tree-like topo by evenly dividing horizontal space
-
-<img src="imgs/simple_topo.png" width="400"/>
-
-### Tracing flame graph
-
-Render a app tracing chart using data generated from KhulnaSoft-APP
-
-<img src="imgs/app_trace.png" width="400"/>
-
 
 ## Usage
 
